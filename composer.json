@@ -1,0 +1,8 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^6.0",
+        "google/apiclient": "^2.0",
+        "nesbot/carbon": "^2.41",
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
