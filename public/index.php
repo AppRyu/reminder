@@ -16,7 +16,7 @@ if (php_sapi_name() != 'cli') {
 $today = date('Y-m-d');
 
 // 取得データの開始日
-$start = date($today.'\T00:00:00\Z');
+$start = date($today.'\T00:00:01\Z');
 
 // 取得データの終了日
 $end = date($today.'\T23:59:59\Z');
